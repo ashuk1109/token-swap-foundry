@@ -38,7 +38,7 @@ contract TokenSwap is TokenSwapEvents {
     error TokenSwap__InsufficientBalance();
     error TokenSwap__InsufficientAllowance();
 
-    /** Vairables */
+    /** Variables */
     address public s_tokenA;
     address public s_tokenB;
     address public s_ownerA;
