@@ -1,4 +1,14 @@
-## Foundry
+## Token Swap Smart Contract
+
+A solidity smart contract to facilitate swapping of one ERC-20 token for another at a 
+predefined exchange rate. The contract consists of the following features:
+- Users can swap Token A for Token B and vice versa.
+- The exchange rate between Token A and Token B is fixed.
+- The swap will always adhere to the exchange rate.
+
+
+The contract is tested using the *Foundry Framework*
+Check the test/ folder for more details.
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
