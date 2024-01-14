@@ -7,7 +7,7 @@ predefined exchange rate. The contract consists of the following features:
 - The swap will always adhere to the exchange rate.
 
 
-The contract is tested using the *Foundry Framework*
+The contract is tested using the *Foundry Framework*.
 Check the test/ folder for more details.
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
